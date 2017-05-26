@@ -1,0 +1,36 @@
+#primaryPostForm label.error {
+  color: red;
+  font-size: 14px;
+}
+
+#capsubmit {
+  margin-top: 10px;
+}
+
+.required-symbol-left:before {
+  color: red;
+  content: '*';
+  display: inline-block;
+}
+.required-symbol-right:after {
+  color: red;
+  content: '*';
+  display: inline-block;
+}
+
+#messageSuccessCaptcha,
+#messageErrorCaptcha {
+  margin-top: 10px;
+  padding: 5px;
+}
+
+#messageSuccessCaptcha {
+  border: 2px solid green;
+  color: green;
+}
+
+#messageErrorCaptcha {
+  border: 2px solid red;
+  color: red;
+}
+

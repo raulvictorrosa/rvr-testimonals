@@ -1,0 +1,29 @@
+#rvr_post_options h2,
+#rvr_post_options .h2,
+.rvr_post_options h2,
+.rvr_post_options .h2 {
+  font-size: 14px;
+  padding: 8px 12px;
+  margin: 0;
+  line-height: 1.4;
+}
+
+#rvr_post_options button,
+#rvr_post_options input,
+#rvr_post_options optgroup,
+#rvr_post_options select,
+#rvr_post_options textarea,
+.rvr_post_options button,
+.rvr_post_options input,
+.rvr_post_options optgroup,
+.rvr_post_options select,
+.rvr_post_options textarea {
+  color: #fff;
+}
+
+#rvr_post_options hr,
+.rvr_post_options hr {
+  margin-bottom: 10px;
+  border-top: 3px #ccc;
+  border-style: dashed;
+}
